@@ -7,6 +7,8 @@ int main()
 {
     std::cout << "Hello World!\n";
 
+    std::cout << "Lala\n";
+
     return 0;
 }
 
